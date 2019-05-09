@@ -75,6 +75,45 @@
 
 #### Week 8 (Mar 13)
 + [Overview on predictive modeling](Tutorials/wk8-TutorialModelSelection.pdf)
-+ [Tensorflow Tutorial](https://cdn.rawgit.com/TZstatsADS/ADS_Teaching/master/Tutorials/wk8-Tensorflow/Tensorflow_tutorial/Tensorflow_tutorial.html) + [Image Interpolation with Tensorflow](https://cdn.rawgit.com/TZstatsADS/ADS_Teaching/master/Tutorials/wk8-Tensorflow/image_interpolation_tutorial/Image_Interpolation_tutorial.html)
++ [Tensorflow Tutorial](https://cdn.rawgit.com/TZstatsADS/ADS_Teaching/master/Tutorials/wk8-Tensorflow/Tensorflow_tutorial/Tensorflow_tutorial.html) + [Image Interpolation with Tensorflow](https://cdn.rawgit.com/TZstatsADS/ADS_Teaching/master/Tutorials/wk8-Tensorflow/image_interpolation_tutorial/Image_Interpolation_tutorial.html) (Example)
 + Project submission checklist
 + Discussion
+
+#### *Spring break*
+
+#### Week 9 (Mar 27)
++ Project 3 submission and presentations
+
+----
+##### Shortcuts: [Project 1](#project-cycle-1-individual-r-notebook-for-exploratory-data-analysis) | [Project 2](#project-cycle-2-shiny-app-development) | [Project 3](#project-cycle-3-predictive-modeling) 
+
+### Project cycle 4: Algorithm implementation and evaluation
+#### Week 9 (Mar 27)
++ Introduction to [Project 4](Projects_StarterCodes/Project4_OCR)
++ Overview of the [reference papers](Projects_StarterCodes/Project4_OCR/doc/paper).
++ [Tutorials](http://htmlpreview.github.io/?https://github.com/TZstatsADS/ADS_Teaching/blob/master/Projects_StarterCodes/Project4_OCR/doc/main.html) + Discussion
+
+#### Weeks 10 & 11 (Apr 3 & 10)
++ Q&A on Algorithms
++ Team Meeting
+
+#### Week 12 (Apr 17)
++ Project 4 presentations
++ Project 5 discussions
+
+----
+##### Shortcuts: [Project 1](#project-cycle-1-individual-r-notebook-for-exploratory-data-analysis) | [Project 2](#project-cycle-2-shiny-app-development) | [Project 3](#project-cycle-3-predictive-modeling) | [Project 4](#project-cycle-4-algorithm-implementation-and-evaluation)
+
+### Project cycle 5: 
+
+#### Week 13 (Apr 24)
++ [Project 3 summary](https://cdn.rawgit.com/TZstatsADS/ADS_Teaching/master/Tutorials/wk12-project3summary/wk13-project3_summary-sec1.nb.html)
++ Project 5 discussions
+
+----
+### Project cycle 5: 
+
+#### Week 14 (May 1)
++ Project 5 Presentations
+
+##### Shortcuts: [Project 1](#project-cycle-1-individual-r-notebook-for-exploratory-data-analysis) | [Project 2](#project-cycle-2-shiny-app-development) | [Project 3](#project-cycle-3-predictive-modeling) | [Project 4](#project-cycle-4-algorithm-implementation-and-evaluation)
